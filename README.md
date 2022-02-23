@@ -9,7 +9,12 @@ To use, you must change the IP of the bridge and the names of the Philips hue li
 
 No .exe file releases since ip config is needed. Only .py files.
 
-My plans
-Alpha: Basic stuff
-Beta: Better GUI
-Release: Easier Setup from the app without changing the python file.
+---------------------------------------------------
+
+**My Plans**
+
+In alpha, I will focus on making new controls.
+
+In Beta, I will try to get a better (friendly) GUI for this app
+
+In Release, I will allow people to set their ip address on the app and let people search for lightbulbs.
